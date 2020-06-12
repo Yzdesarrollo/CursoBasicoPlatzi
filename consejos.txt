@@ -1,0 +1,153 @@
+La Web con Visión Profesional
+
+Crear para la web es un talento valorado estos días y nos encontramos en un mercado altamente demandante.
+
+¿Qué necesito saber? ¿Estoy listo para esta revolución que se está suscitando? ¿Podré algún día codificar "cool"?
+
+Claro que si, por eso estás aquí. Te daremos algunos puntos importantes que van ayudarte en este camino.
+
+La Web en su auge
+Poca oferta y mucha demanda en empresas y startups, incluso, aumenta diariamente.
+
+No hay suficientes profesionales web.
+
+Esos puestos deben cubrirse con perfiles épicos, apasionados por la tecnología.
+
+Desgraciadamente, aparecen muchas personas que entran al sector sin disfrutarlo, más como obligación o porque está "caliente" el mercado. Y no debe ser totalmente así.
+
+Debes de gozarlo.
+
+Las empresas quieren mejorar comunicación, costos, ventas, infraestructura pero desconocen los "cómo" o peor aún, saben que existe, pero no cuentan con los profesionales aptos para esos puestos.
+
+Ahí es donde entramos nosotros.
+
+Buenas prácticas en los profesionales web
+La palabra "profesional", de acuerdo al diccionario, significa:
+
+"Persona que realiza su trabajo con aplicación, seriedad, honradez y eficacia."
+
+Son importantes los valores y el fuerte compromiso personal.
+
+Complementando a esto, existen actitudes, ideologías y habilidades para destacar.
+
+Practicar, no memorizar
+" HTML5, CSS3, Javascript, HAML, Slim, ERB, Stylus, SASS, LESS, Coffeescript, Ruby, Rails, RVM, RubyGems, Bundler, Sinatra, GIT, MySQL, PostgreSQL, MongoDB, Python, Django, Responsive Design, Mobile First, API’s, NodeJS, BackboneJS, EmberJS, AngularJS…"
+
+Hay miles de tecnologías y conceptos. Y todas tienen un porqué.
+
+No te sientas mal si al principio te cuesta trabajo o aparecen millones de errores, es natural.
+
+De antemano te digo que te va a doler, pasarás horas perdido, lo odiarás con el alma.
+
+Pero, valdrá la pena llegar.
+
+Poco a poco, dominarás la disciplina y empezarás a notar una increíble apertura de puertas y oportunidades que muy pocas personas tienen.
+
+Nuestro sector valora a esas personas. Se las pelean.
+
+Te lo pedimos, practica muchísimo. Esa es la fórmula.
+
+Se curioso y busca los orígenes
+"¿Por qué BackboneJS? ¿Por qué Ruby? ¿Por qué Django? ¿Por qué GIT?"
+
+Todo tiene un por qué en la vida, en la Web también.
+
+Si hay algo que no entiendes, búscalo y trata de comprenderlo (no memorizarlo).
+
+Cuando encuentras el origen y la necesidad que cubre una tecnología, tendrás una ventaja y crearás estrategias mejor enfocadas.
+
+Conoce de todo, pero especialízate
+Conforme vayas avanzando, descubrirás que hay muchas areas.
+
+Cuando hablamos de Backend o Frontend o Marketing, nuestra idea no será dividir. Será destacar.
+
+Por ello, prueba todas las diferentes áreas y cuando lo consideres, especialízate en la que más te guste.
+
+Cada área exige diferentes talentos y perfiles, por ejemplo:
+
+En Frontend es importante armonizar el sentido visual y usabilidad de un sitio.
+En Backend se pide solidez y lógica arquitectónica en servidores.
+En Marketing se determinan comportamientos de usuarios de acuerdo a analíticas, sintetizando procesos de venta.
+Eso si, todos son importantes y se complementan enormemente.
+
+Seguro te gustará conocer los perfiles Mobile Developers, Growth Hackers, UI/UX, SysAdmin.
+
+Elige la opción práctica, no fanatices
+_" - Yo soy Django. Es lo mejor. No se por qué programas en Rails, que aburrido.
+
+Rails es lo mejor, seguro porque no le entiendes. Noob."
+
+Hay que tener cuidado en ser demasiado fanáticos con ciertas tecnologías.
+
+Complementemos, cuestionemos, investiguemos. Es la forma de tomar mejores decisiones.
+
+No odiemos a todo mundo porque no usa nuestra tecnología.
+
+Al contrario, como profesionales, veamos por qué la usan, realmente saber si son más productivos.
+
+"Usar Rails en "X"  proyecto tal vez no sea la mejor opción. Puede ser Sinatra, porque mi proyecto es pequeño…"
+
+Piensa global
+Cuando entras en este sector, empiezas a ver que salimos de nuestras fronteras en todos los sentidos.
+
+No somos México, Colombia, Chile. Somos desarrolladores y diseñadores internacionales.
+
+Debemos contar con la habilidad de contactarnos con clientes, empresas, comunidades sin importar la distancia o frontera. Todo se vale, no hay reglas.
+
+Y es una lección muy difícil de aprender, pero todo se empieza con pasos pequeños.
+
+Por otro lado, tus proyectos defínelos en función de que cualquier persona del mundo podría usarlos. No sólo en ciertas regiones, en cualquier lado.
+
+La realidad es que estamos a un tweet de distancia de personas geniales y de clientes potenciales.
+
+Sé social.
+Si no te comunicas con personas que hacen lo mismo que tú, es muy probable que tengas dificultades para crecer profesionalmente.
+
+Realmente necesitamos de todos para encontrar proyectos, empresas o ideas interesantes que se podrían ejecutar.
+
+Ve a eventos, acércate a las comunidades, concursa, genera iniciativas.
+
+No es sólo pasar miles de horas con código, es también influir positivamente en los demás.
+
+Sé constante
+La curva de aprendizaje en nuestro sector es alta pero a cierto plazo, todo llega a tener sentido y agilizas. Sé organizado y aprende un poco cada día.
+
+No te rindas si no llegas a entender nada al principio, te aseguramos que es un proceso de perseverancia, no de dones divinos.
+
+¡Actualízate!
+Es Internet, existen blogs, redes sociales, personas con autoridad en ciertas especialidades web.
+
+Dedícale un pequeño tiempo en fin de semana a conocer las novedades de la industria, nuevos desarrollos y grandes tendencias que se están suscitando.
+
+Sé una persona de propuesta, no de instrucción
+La web necesita más personas que prueben, se equivoquen y jueguen con lo nuevo.
+
+Por lo tanto si trabajas todo el tiempo los mismos frameworks, herramientas, códigos durante un plazo exageradamente amplio, es probable que puedas estancarte.
+
+Si en tu empresa te piden que trabajes con ciertas herramientas, sé estratega y muéstrales las bendiciones del desarrollo web moderno (con un proyecto, ejemplos y los resultados que se pueden generar).
+
+Todas las empresas quieren personas con iniciativa, más en nuestro sector.
+
+Un portafolio, un portafolio, un portafolio! (Con URL)
+Un profesional Web debe aprender a destacarse, a mostrar sus talentos de forma sintetizada y simple.
+
+Ten un portafolio con todo tu trabajo online en una dirección de Internet (proyectos, networking, contenido, etc).
+
+No copies y pegues el CV. Colabora, crea, promueve tus ideas.
+
+Muestra tu mejor trabajo y te aseguro un futuro brillante en cualquier área.
+
+Hazlo y hablamos en unos años.
+
+Conclusión
+Programar es maravilloso.
+
+Tenemos acción, amor, pasión, network internacional, trabajo presencial y remoto, estudios online, mercado amplio, colaboración en tiempo real.
+
+Usa esta comunidad para explotar al máximo tus talentos. Compartir tus logros.
+
+Demostrar que somos un gran número de personas organizadas en llevar TODO al más alto nivel.
+
+Por ningún motivo dejes de caminar.
+
+Bienvenido a este mundo.
